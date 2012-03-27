@@ -68,7 +68,7 @@ const int& Tracker::DropStack::getLastY() const {
     return this->y[this->pos - 1];
 }
 
-Tracker::Contour::Contour(int size) : DropStuck(size), linecount(0), lines(new int[size]) {
+Tracker::Contour::Contour(int size) : DropStack(size), linecount(0), lines(new int[size]) {
     this->lines[0] = 0;
 }
 
