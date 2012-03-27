@@ -9,7 +9,7 @@
  *
  *For documentation see: http://www.inf.fu-berlin.de/~hundelsh/research/RegionTracking/
  *
- * c++ version by Olaf Christ: Email:christ_o@gmx.de
+ * c++ version by Olaf Christ: Email:christ_o@gmx.de and and Matthias Klostermann
  * 
  * @author Olaf Christ
  **/
