@@ -3,12 +3,12 @@
  * Copyright (C) 2012 Olaf Christ 
  * email: christ_o@gmx.de
  * 
- * RGBDTracker is free software: you can redistribute it and/or modify it
+ * Tracking-by-growing-and-shrinking is free software: you can redistribute it and/or modify it
  * under the terms of the GNU General Public License as published by the
  * Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  * 
- * RGBDTracker is distributed in the hope that it will be useful, but
+ * Tracking-by-growing-and-shrinking is distributed in the hope that it will be useful, but
  * WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
  * See the GNU General Public License for more details.
